@@ -32,4 +32,4 @@ function displayText(index,text) {
     }
 
     display.innerHTML = text;
-}1
+}
